@@ -31,4 +31,4 @@ $ gocr file1.jpg file2.jpg --concurrency=2
 
 This software includes the work that is distributed in the Apache License 2.0.
 
-This software is released under the MIT License, see [LICENSE.txt](https://github.com/acomagu/gocr/blob/master/LICENSE).
+This software is released under the MIT License, see [LICENSE](https://github.com/acomagu/gocr/blob/master/LICENSE).
